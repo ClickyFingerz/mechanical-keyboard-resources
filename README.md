@@ -3,6 +3,8 @@
 
 ### Design
 
+
+
 ##### Keycaps
 - https://keyboardsimulator.xyz/ - Online colorway designer
 
@@ -19,8 +21,11 @@ ZMK
 - https://nickcoutsos.github.io/keymap-editor/ - Online layout editor
 
 ### Build
+##### 3D Printing
+- https://www.youtube.com/watch?v=dQ0q9zLygTY - The Ultimate Creality Ender 3 Quick Start Guide
 
 ##### Soldering
+
 ### Mods and Layers
 - https://dreymar.colemak.org/ - Dreymar's big bag of tricks
 
