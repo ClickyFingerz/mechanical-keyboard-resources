@@ -1,8 +1,12 @@
 # mechanical-keyboard-resources
  A list of mechanical keyboard resources that have helped me on my never-ending journey toward the elusive end game
 
-### Design
-
+### Wishlist
+##### 3D Printed, Handwired Split Ergo
+- https://github.com/joe-scotto/scottokeebs/tree/main/ScottoErgo
+- https://github.com/joe-scotto/scottokeebs/tree/main/ScottoFly
+- https://github.com/Bastardkb/Skeletyl
+- https://github.com/Sandalmoth/keyboards/tree/master/smudge
 
 
 ##### Keycaps
