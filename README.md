@@ -5,6 +5,8 @@
 ##### Form Factor
 Tented, split 42 key in the style of the Smudge
 ##### Switches
+- hotswap
+- rgb
 - Kailh Box Jade alphas
 - Two 5-way switches at both thumbs in the style of the Fulcrum
 - Rotary encoder
@@ -33,7 +35,8 @@ TBD
 
 ##### Hand Wiring
 - https://sachee.medium.com/building-my-first-keyboard-and-you-can-too-512c0f8a4c5f
-
+- https://geekhack.org/index.php?topic=87689.0 - A modern handwiring guide
+- https://imgur.com/gallery/9jA3CjJ - Magnet Wire Keyboard Tutorial
 
 ### Firmware
 ##### TMK
