@@ -1,6 +1,17 @@
 # mechanical-keyboard-resources
- A list of mechanical keyboard resources that have helped me on my never-ending journey toward the elusive end game
-
+ A list of mechanical keyboard resources that have helped me on my never-ending journey toward the elusive end game, speaking of which...
+ 
+### Endgame (currently)
+##### Form Factor
+Tented, split 42 key in the style of the Smudge
+##### Switches
+- Kailh Box Jade alphas
+- Two 5-way switches at both thumbs in the style of the Fulcrum
+- Rotary encoder
+##### Keycaps
+- Blank XDA/ZDA
+##### Controller/Firmware
+TBD
 
 ### Wishlist
 ##### 3D Printed, Handwired Split Ergo
