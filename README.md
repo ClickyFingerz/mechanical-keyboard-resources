@@ -5,8 +5,8 @@
 ##### Form Factor
 Tented, split 42 key in the style of the Smudge
 ##### Switches
-- hotswap
-- rgb
+- hotswap (maybe amoeba pcb or handwirehotswap)
+- rgb 
 - Kailh Box Jade alphas
 - Two 5-way switches at both thumbs in the style of the Fulcrum
 - Rotary encoder
