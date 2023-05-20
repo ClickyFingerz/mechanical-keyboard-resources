@@ -33,6 +33,9 @@ TBD
 
 ##### Soldering
 
+##### RGB
+- https://www.reddit.com/r/MechanicalKeyboards/comments/ba8zgb/indepth_explanation_of_rgb_lighting_inswitch_vs/
+
 ##### Hand Wiring
 - https://sachee.medium.com/building-my-first-keyboard-and-you-can-too-512c0f8a4c5f
 - https://geekhack.org/index.php?topic=87689.0 - A modern handwiring guide
